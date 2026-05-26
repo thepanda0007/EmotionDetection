@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-tflite-runtime
+tensorflow-cpu
 opencv-python-headless
 numpy
 python-multipart
